@@ -1,0 +1,24 @@
+/*Color Palette: #eb7070 #fec771 #e6e56c #64e291*/
+body {
+  background-color: #eb7070;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #64e291;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #fec771;
+}
+
+h3 {
+  color: #e6e56c;
+}
+
+.circular:hover {
+  border-radius: 100%;
+}
